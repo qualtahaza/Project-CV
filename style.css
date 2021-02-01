@@ -80,11 +80,12 @@
 }
 
 .namecontent {
+    width: 150px;
     margin-bottom: 20px;
     float: left;
 }
 
-div.vertical-line {
+.vertical-line {
     width: 1px;
     background-color: black;
     height: 250px;
@@ -93,9 +94,9 @@ div.vertical-line {
 }
 
 .datejob {
-    width: 400px;
+    width: 430px;
     float: left;
-    margin-left: 100px;
+    margin-left: 70px;
 }
 
 .right {
@@ -111,10 +112,30 @@ div.vertical-line {
     height: 300px;
 }
 
-div.vertical-line1 {
+.vertical-line1 {
     width: 1px;
     background-color: black;
     height: 250px;
     float: left;
-    margin-left: 67px;
+    margin-left: 61px;
+}
+
+.vertical-line2 {
+    width: 1px;
+    background-color: black;
+    height: 150px;
+    float: left;
+    margin-left: 62px;
+}
+
+.vertical-line3 {
+    width: 1px;
+    background-color: black;
+    height: 270px;
+    float: left;
+    margin-left: 62px;
+}
+
+.content3 {
+    height: 200px;
 }
